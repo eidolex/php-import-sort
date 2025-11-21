@@ -14,7 +14,7 @@ A high-performance Go script to sort and organize PHP `use` statements (imports)
 You can build the tool from source:
 
 ```bash
-go build -o psort main.go
+go build -o psort src/main.go
 ```
 
 ## Usage

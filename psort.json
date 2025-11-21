@@ -1,0 +1,14 @@
+{
+  "include": [
+    "*.php"
+  ],
+  "exclude": [
+    "vendor",
+    ".git"
+  ],
+  "groups": [
+    "*",
+    "App\\"
+  ],
+  "newline_between_groups": true
+}
